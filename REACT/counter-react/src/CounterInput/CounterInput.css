@@ -1,0 +1,19 @@
+.container{
+    width: 300px;
+    /* height: 100px; */
+    height: max-content;
+    margin: 10px auto;
+    text-align: center;
+}
+.container > h1{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: 500;
+}
+.container > input{
+    border: none;
+    border-radius: 25px;
+    border-bottom: 1px solid black;
+    width: 22vw;
+    outline: none;
+}

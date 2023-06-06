@@ -1,0 +1,38 @@
+.container-button{
+    width: 450px;
+    height: 80px;
+    margin: 10px auto;
+    text-align: center;
+}
+button{
+    margin: 10px;
+    width: 120px;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid;
+    font-size: 13px;
+    font-family: monospace;
+    cursor: pointer;
+}
+button:hover{
+    background: #FFFFFF;
+color: black;
+}
+.inc{
+    background: rgb(79,129,227);
+    color: #FFFFFF;
+    transition: all 0.5s;
+}
+.inc:hover{
+background: #FFFFFF;
+color: black;
+}
+.dec{
+    background: rgb(223 71 71);
+    color: #FFFFFF;
+    transition: all 0.5s;
+}
+.res{
+    background: grey;
+    color: #FFFFFF;
+}
